@@ -1,5 +1,11 @@
 # Cohere To OpenAI (Cloudflare Worker)
 
+**Status**: Deprecated, no longer updating until further notice.
+
+Thanks for your support ☺️, Cohere has released it's own OpenAI compatibility API, you can directly migrate to the new compatibility API ([docs](https://docs.cohere.com/docs/compatibility-api)).
+
+---
+
 [简体中文](./docs/README-zh-CN.md)
 
 This is a simple Cloudflare Worker that transform Cohere API to OpenAI API, easily deployable to Cloudflare Workers.
